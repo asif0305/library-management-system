@@ -5,4 +5,5 @@ A library management system implemented in PHP, with attention to details like:
 * Automatic email confirmation to members on successful registration and book issue
 * Automatic email reminders to book issuers to return books
 * Automatic penalty deduction on returning a book after the due date
+* librarian="genesis" pass="librarian"
 
